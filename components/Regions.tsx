@@ -7,7 +7,7 @@ export default function Regions() {
       name: 'Bretagne - Toute la région',
       priority: true,
       description:
-        "Notre zone de prédilection. Expertise approfondie de la vente d'appartements loués, maisons louées et commerces loués en Bretagne. Vente de biens loués à Vannes, Rennes, Nantes, Lorient, Brest, Saint-Malo, Quimper et Pontivy.",
+        "Nous vendons des appartements loués, maisons louées et commerces loués en Bretagne. Vente de biens loués à Vannes, Rennes, Nantes, Lorient, Brest, Saint-Malo, Quimper et Pontivy.",
       highlights: [
         'Vendre appartement loué Rennes, Nantes, Vannes',
         'Maison louée à vendre Lorient, Brest, Quimper',
@@ -19,7 +19,7 @@ export default function Regions() {
       name: 'Paris & 1ère Couronne',
       priority: false,
       description:
-        'Experts du marché parisien et de sa première couronne. Accompagnement sur-mesure pour la vente de biens immobiliers loués dans la capitale et ses environs immédiats : Yvelines, Hauts-de-Seine, Val de Marne.',
+        'Experts du marché parisien et de sa première couronne pour la vente de biens immobiliers loués dans la capitale et ses environs immédiats : Yvelines, Hauts-de-Seine, Val de Marne.',
       highlights: [
         'Appartement loué Paris',
         'Immeuble de rapport Paris',
@@ -34,8 +34,8 @@ export default function Regions() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-16">
           <h2 className="text-3xl sm:text-4xl lg:text-5xl font-semibold text-gray-900 mb-6">
-            Où nous intervenons : <span className="text-primary">Bretagne : Rennes, Nantes, Vannes, Lorient, Brest</span>{' '}
-            et <span className="text-primary">Paris</span>
+            Nous intervenons <span className="text-primary">en Bretagne (Rennes, Nantes, Vannes, Lorient, Brest)</span>{' '}
+            et <span className="text-primary">à Paris</span>
           </h2>
           <p className="text-lg text-gray-600 max-w-3xl mx-auto">
             Deux régions stratégiques pour vendre votre bien loué (appartement loué, maison louée, commerce loué)
