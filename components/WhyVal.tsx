@@ -7,7 +7,7 @@ export default function WhyVal() {
       icon: Target,
       title: 'Experts de l'investissement locatif',
       description:
-        'Contrairement aux agences classique, chez VAL', nous parlons le langage "investisseur". Notre expertise, associée à une base exclusive d'investisseurs qualifiés, facilite la vente de votre bien loué.',
+        'Contrairement aux agences classiques, chez VAL, nous parlons le langage « investisseur ». Notre expertise, associée à une base exclusive d'investisseurs qualifiés, facilite la vente de votre bien déjà loué.',
     },
     {
       icon: MapPin,
