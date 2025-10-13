@@ -7,8 +7,8 @@ const inter = Inter({ subsets: ['latin'], weight: ['400', '500', '600'] });
 
 export const metadata: Metadata = {
   metadataBase: new URL('https://vendreappartementloue.fr'),
-  title: 'Vendre Appartement Maison Commerce Loué Bretagne & Paris | VAL\' Agence Immobilière Spécialisée',
-  description: 'Agence immobilière experte en vente d\'appartements loués, maisons louées et commerces loués en Bretagne (Rennes, Nantes, Vannes, Lorient, Brest, Saint-Malo, Quimper, Pontivy) et Paris. Estimation gratuite, accompagnement personnalisé, réseau d\'investisseurs qualifiés.',
+  title: 'Vendre un appartement, une maison, un commerce loué, Bretagne (Rennes, Lorient, Brest, Vannes) et Paris | VAL, une agence immobilière spécialisée vente appartement loué',
+  description: 'Agence immobilière experte en vente d'appartements loués, maisons louées et commerces loués en Bretagne (Rennes, Nantes, Vannes, Lorient, Brest, Saint-Malo, Quimper, Pontivy) et Paris. Estimation gratuite, accompagnement personnalisé, réseau d'investisseurs locatifs qualifiés.',
   keywords: [
     'vendre appartement loué',
     'vente bien loué Bretagne',
@@ -51,7 +51,7 @@ export const metadata: Metadata = {
     locale: 'fr_FR',
     url: 'https://vendreappartementloue.fr',
     siteName: 'VAL\' - Vendre Appartement Loué',
-    title: 'Vendre Appartement Maison Commerce Loué en Bretagne & Paris | VAL\' Agence Immobilière',
+    title: 'Vendre un appartement, une maison, un commerce loué, Bretagne (Rennes, Lorient, Brest, Vannes) et Paris | VAL\' Agence Immobilière',
     description: 'Agence immobilière spécialisée dans la vente d\'appartements loués, maisons louées et commerces loués en Bretagne et Paris. +23 conseillers experts issus des plus grandes maisons d\'investissement. Estimation gratuite.',
     images: [
       {
@@ -64,7 +64,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Vendre Appartement Maison Commerce Loué | VAL\' Bretagne & Paris',
+    title: 'Vendre un appartement, une maison, un commerce loué, Bretagne (Rennes, Lorient, Brest, Vannes) et Paris | VAL\' Bretagne & Paris',
     description: 'Agence experte en vente de biens loués. Estimation gratuite, accompagnement personnalisé en Bretagne et Paris.',
     images: ['/vendre-appartement-loue-vert.png'],
   },
@@ -87,13 +87,13 @@ export default function RootLayout({
     name: "VAL' - Vendre Appartement Loué",
     description:
       "Agence immobilière spécialisée dans la vente d'appartements loués, maisons louées et commerces loués en Bretagne et Paris",
-    url: 'https://vendreappartementloue.fr',
-    logo: 'https://vendreappartementloue.fr/vendre-appartement-loue-vert.png',
-    image: 'https://vendreappartementloue.fr/vendre-appartement-loue-vert.png',
-    telephone: '+33-2-97-47-42-42',
+    url: 'https://vendre-appartement-loué.com',
+    logo: 'https://vendre-appartement-loué.com/vendre-appartement-loue-vert.png',
+    image: 'https://vendre-appartement-loué.com/vendre-appartement-loue-vert.png',
+    telephone: '+33-7-63-64-88-23',
     address: {
       '@type': 'PostalAddress',
-      addressLocality: 'Vannes',
+      addressLocality: 'Rennes',
       addressRegion: 'Bretagne',
       addressCountry: 'FR',
     },
