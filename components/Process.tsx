@@ -12,7 +12,7 @@ export default function Process() {
       icon: Users,
       number: '02',
       title: 'Réseau Investisseurs',
-      description: "Présentation à notre réseau ciblé d'investisseurs pour accélérer la transaction",
+      description: "Présentation à notre base d'investisseurs pour accélérer la transaction",
     },
     {
       icon: Home,
@@ -37,7 +37,7 @@ export default function Process() {
             <span className="text-primary">en 4 étapes simples</span>
           </h2>
           <p className="text-lg text-gray-600 max-w-3xl mx-auto">
-            Un processus optimisé pour la vente de votre appartement, maison ou commerce loué
+            Un processus claire et professionnel pour la vente de votre appartement, maison ou commerce loué
           </p>
         </div>
 
