@@ -112,20 +112,6 @@ export default function Header() {
               </a>
             ))}
             <a
-              href="#regions"
-              onClick={() => setIsMobileMenuOpen(false)}
-              className="block px-4 py-3 pl-8 text-sm text-gray-600 hover:text-primary hover:bg-gray-50 rounded-xl transition-colors"
-            >
-              Bretagne
-            </a>
-            <a
-              href="#regions"
-              onClick={() => setIsMobileMenuOpen(false)}
-              className="block px-4 py-3 pl-8 text-sm text-gray-600 hover:text-primary hover:bg-gray-50 rounded-xl transition-colors"
-            >
-              Paris
-            </a>
-            <a
               href="tel:0763648823"
               className="flex items-center justify-center gap-2 px-4 py-3 text-base font-medium text-gray-700 hover:text-primary hover:bg-gray-50 rounded-xl transition-colors"
             >
