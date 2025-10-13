@@ -25,7 +25,7 @@ export default function Hero() {
       {/* Contenu */}
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
         <div className="text-center max-w-4xl mx-auto relative">
-          <h1 className="text-3xl sm:text-5xl lg:text-3xl font-semibold text-gray-900 mb-6 leading-tight relative">
+          <h1 className="text-3xl sm:text-5xl lg:text-6xl font-semibold text-gray-900 mb-6 leading-tight relative">
             Votre bien est loué ?
             <br />
             Nous le vendons au bon prix, rapidement
