@@ -30,6 +30,12 @@ export default function Hero() {
             >
               Confier ma vente
             </button>
+            <button
+              onClick={openTallyPopup}
+              className="bg-white text-primary border-2 border-primary px-8 py-4 rounded-lg text-lg font-semibold hover:bg-green-50 transition-all duration-300"
+            >
+              Estimer mon bien
+            </button>
           </div>
         </div>
       </div>
