@@ -8,7 +8,7 @@ const inter = Inter({ subsets: ['latin'], weight: ['400', '500', '600'] });
 export const metadata: Metadata = {
   metadataBase: new URL('https://vendreappartementloue.fr'),
   title: 'Vendre un appartement, une maison, un commerce loué, Bretagne (Rennes, Lorient, Brest, Vannes) et Paris | VAL, une agence immobilière spécialisée vente appartement loué',
-  description: 'Agence immobilière experte en vente d'appartements loués, maisons louées et commerces loués en Bretagne (Rennes, Nantes, Vannes, Lorient, Brest, Saint-Malo, Quimper, Pontivy) et Paris. Estimation gratuite, accompagnement personnalisé, réseau d'investisseurs locatifs qualifiés.',
+  description: "Agence immobilière experte en vente d'appartements loués, maisons louées et commerces loués en Bretagne (Rennes, Nantes, Vannes, Lorient, Brest, Saint-Malo, Quimper, Pontivy) et Paris. Estimation gratuite, accompagnement personnalisé, réseau d'investisseurs locatifs qualifiés.",
   keywords: [
     'vendre appartement loué',
     'vente bien loué Bretagne',
