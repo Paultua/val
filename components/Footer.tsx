@@ -31,7 +31,7 @@ export default function Footer() {
           <div className="lg:col-span-2">
             <div className="flex items-center mb-4">
               <Image
-                src="/vendre-appartement-loue-vert.png"
+                src="/vendre-appartement-loue-rose.png"
                 alt="VAL' Logo"
                 width={90}
                 height={90}
