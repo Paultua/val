@@ -5,21 +5,21 @@ export default function WhyVal() {
   const features = [
     {
       icon: Target,
-      title: 'Expertise Ultime',
+      title: 'Experts de l'investissement locatif',
       description:
-        "Contrairement aux agences généralistes, VAL' est paramétré pour vendre ce type de biens. Notre expertise métier et financière, associée à un réseau exclusif d'investisseurs qualifiés, garantit la concrétisation de votre vente avec locataire.",
+        "Contrairement aux agences classique, chez VAL', nous parlons le langage "investisseur". Notre expertise, associée à une base exclusive d'investisseurs qualifiés, facilite la vente de votre bien loué.",
     },
     {
       icon: MapPin,
-      title: 'Accompagnement Local',
+      title: 'Une équipe en Bretagne et à Paris',
       description:
-        'Bureaux à Vannes (56) et Paris - Proximité et réactivité sur le marché immobilier locatif. Une connaissance approfondie des spécificités locales pour optimiser votre transaction.',
+        'Bureaux en Bretagne (Vannes, 56) et Paris - Proximité et réactivité sur le marché immobilier locatif. Une connaissance approfondie des spécificités locales pour réussir votre transaction.',
     },
     {
       icon: TrendingUp,
-      title: 'Valorisation Optimale',
+      title: 'Bien valoriser la situation locative',
       description:
-        'Estimation juste de tous vos biens immobiliers locatifs pour votre vente bien occupé. Maximisez la valeur de votre investissement grâce à notre expertise du marché.',
+        'Estimation juste de vos biens immobiliers locatifs pour votre vente bien occupé (capitaliser la durée et les valeurs du bail). Nous apportons des arguments pour maximiser la valeur de votre bien.',
     },
   ];
 
@@ -28,12 +28,12 @@ export default function WhyVal() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-16">
           <h2 className="text-3xl sm:text-4xl lg:text-5xl font-semibold text-gray-900 mb-6">
-            L'agence immobilière des biens loués en{' '}
+            Une agence immobilière spécialisée dans la vente de biens loués en{' '}
             <span className="text-primary">Bretagne</span> et{' '}
             <span className="text-primary">Paris</span>
           </h2>
           <p className="text-lg text-gray-600 max-w-3xl mx-auto">
-            Spécialistes de la vente d'appartements, maisons et commerces loués
+            Spécialistes de la vente d'appartements, maisons et commerces loués et occupés
           </p>
         </div>
 
