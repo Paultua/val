@@ -48,7 +48,7 @@ export default function Header() {
         <div className="flex items-center justify-between h-20">
           <a href="#accueil" className="flex items-center group" aria-label="VAL' Agence Immobilière - Retour à l'accueil">
             <Image
-              src="/vendre-appartement-loue-vert.png"
+              src="/VAL-logo-vendre-bien-locatif.png"
               alt="VAL' - Agence spécialisée vente appartements loués, maisons louées et commerces loués"
               width={120}
               height={120}
