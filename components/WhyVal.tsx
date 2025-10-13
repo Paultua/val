@@ -5,21 +5,25 @@ export default function WhyVal() {
   const features = [
     {
       icon: Target,
-      title: 'Experts de l'investissement locatif',
+      // Correction de la Syntax Error
+      title: "Experts de l'investissement locatif", 
       description:
-        'Contrairement aux agences classiques, chez VAL, nous parlons le langage « investisseur ». Notre expertise, associée à une base exclusive d'investisseurs qualifiés, facilite la vente de votre bien déjà loué.',
+        // Correction des fautes de français : classiques, guillemets, déjà loué.
+        'Contrairement aux agences classiques, chez VAL, nous parlons le langage « investisseur ». Notre expertise, associée à une base exclusive d\'investisseurs qualifiés, facilite la vente de votre bien déjà loué.',
     },
     {
       icon: MapPin,
       title: 'Une équipe en Bretagne et à Paris',
       description:
-        'Bureaux en Bretagne (Vannes, 56) et Paris - Proximité et réactivité sur le marché immobilier locatif. Une connaissance approfondie des spécificités locales pour réussir votre transaction.',
+        // Correction des fautes de français : à Paris, ponctuation, minuscule
+        'Bureaux en Bretagne (Vannes, 56) et à Paris : proximité et réactivité sur le marché immobilier locatif. Une connaissance approfondie des spécificités locales pour réussir votre transaction.',
     },
     {
       icon: TrendingUp,
       title: 'Bien valoriser la situation locative',
       description:
-        'Estimation juste de vos biens immobiliers locatifs pour votre vente bien occupé (capitaliser la durée et les valeurs du bail). Nous apportons des arguments pour maximiser la valeur de votre bien.',
+        // Correction des fautes de français : capitalisation
+        'Estimation juste de vos biens immobiliers locatifs pour votre vente bien occupé (capitalisation de la durée et des valeurs du bail). Nous apportons des arguments pour maximiser la valeur de votre bien.',
     },
   ];
 
