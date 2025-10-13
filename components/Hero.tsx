@@ -13,10 +13,11 @@ export default function Hero() {
   };
 
   return (
-    <section id="accueil" className="relative pt-48 pb-20 lg:pt-40 lg:pb-32 overflow-hidden bg-gradient-to-br from-green-50/50 via-white to-amber-50/50">
+    <section id="accueil" className="relative pt-48 pb-20 lg:pt-40 lg:pb-32 overflow-hidden bg-white">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="text-center max-w-4xl mx-auto">
-          <h1 className="text-3xl sm:text-5xl lg:text-6xl font-semibold text-gray-900 mb-6 leading-tight">
+        <div className="text-center max-w-4xl mx-auto relative">
+          <div className="absolute inset-0 -inset-x-20 -inset-y-10 bg-gradient-to-br from-green-50 via-amber-50/30 to-green-50/40 rounded-full blur-3xl -z-10 opacity-60"></div>
+          <h1 className="text-3xl sm:text-5xl lg:text-6xl font-semibold text-gray-900 mb-6 leading-tight relative">
             <br />Votre bien est loué ?<br />
             Nous le vendons au bon prix, rapidement
           </h1>
