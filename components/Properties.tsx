@@ -322,7 +322,7 @@ export default function Properties() {
                         alt={property.title}
                         className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
                       />
-                      <Badge className="absolute top-4 left-4 bg-secondary text-white border-0 flex items-center gap-1">
+                      <Badge className="absolute top-4 left-4 bg-secondary text-gray-900 border-0 flex items-center gap-1 font-semibold">
                         <TrendingUp className="h-3 w-3" />
                         {property.rentalYield}
                       </Badge>
