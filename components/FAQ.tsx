@@ -25,7 +25,7 @@ export default function FAQ() {
     {
       question: "Dans quelles villes intervenez-vous ?",
       answer:
-        "Nous couvrons toute la Bretagne avec une présence forte à Rennes, Nantes, Vannes, Lorient, Brest, Saint-Malo, Quimper et Pontivy. Nous intervenons également à Paris intra-muros uniquement. La Bretagne est notre zone prioritaire où la concurrence est plus faible et où notre expertise locale fait toute la différence. Nos 23 conseillers sont répartis entre la Bretagne et Paris pour un accompagnement de proximité.",
+        "Nous couvrons toute la Bretagne avec une présence forte à Rennes, Nantes, Vannes, Lorient, Brest, Saint-Malo, Quimper et Pontivy. Nous intervenons également à Paris intra-muros uniquement. La Bretagne est notre zone prioritaire où la concurrence est plus faible et où notre expertise locale fait toute la différence. Nos 12 conseillers sont répartis entre la Bretagne et Paris pour un accompagnement de proximité.",
     },
     {
       question: "Quel est votre réseau d'acheteurs ?",
