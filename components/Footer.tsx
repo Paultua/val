@@ -42,7 +42,7 @@ export default function Footer() {
               loués en Bretagne (Rennes, Nantes, Vannes, Lorient, Brest, Saint-Malo, Quimper, Pontivy) et Paris.
             </p>
             <p className="text-sm text-gray-500">
-              Expert en immobilier locatif Bretagne, vente bien occupé toutes villes, appartement maison commerce loué.
+              Expert en immobilier locatif Bretagne, vente bien loué et occupé toutes villes, appartement maison commerce loué.
             </p>
           </div>
 
