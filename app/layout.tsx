@@ -154,6 +154,18 @@ export default function RootLayout({
       <body className={inter.className}>
         {children}
         <Script src="https://tally.so/widgets/embed.js" strategy="lazyOnload" />
+        <Script
+          src="https://www.googletagmanager.com/gtag/js?id=AW-11483776859"
+          strategy="afterInteractive"
+        />
+        <Script id="google-analytics" strategy="afterInteractive">
+          {`
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'AW-11483776859');
+          `}
+        </Script>
       </body>
     </html>
   );
