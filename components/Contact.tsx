@@ -19,15 +19,15 @@ export default function Contact() {
   const offices = [
     {
       name: 'Bretagne',
-      address: 'Vannes - Rennes - Nantes - Lorient - Brest',
+      address: 'Bureaux à Vannes pour couvrir la Bretagne',
       phone: '07.63.64.88.23',
-      email: 'contact@val-immo.fr',
+      email: 'contact@ukan-group.com',
     },
     {
       name: 'Paris intra-muros',
-      address: 'Tous arrondissements',
+      address: 'Paris 19ème pour couvrir l'Île-de-France',
       phone: '07.63.64.88.23',
-      email: 'contact@val-immo.fr',
+      email: 'contact@ukan-group.com',
     },
   ];
 
@@ -36,7 +36,7 @@ export default function Contact() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-16">
           <h2 className="text-3xl sm:text-4xl lg:text-5xl font-semibold text-gray-900 mb-6">
-            Contactez VAL' pour vendre votre bien loué{' '}
+            Contactez notre agence pour vendre votre bien loué{' '}
             <span className="text-primary">en Bretagne</span> et{' '}
             <span className="text-primary">Paris</span>
           </h2>
@@ -61,7 +61,7 @@ export default function Contact() {
                 window.location.href = `tel:${phone.replace(/\s/g, '')}`;
               }}
             >
-              Contacter le bureau
+              Contacter notre équipe
             </Button>
           </div>
         </div>
