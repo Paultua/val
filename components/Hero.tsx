@@ -13,7 +13,7 @@ export default function Hero() {
   };
 
   return (
-    <section id="accueil" className="relative pt-48 pb-20 lg:pt-40 lg:pb-32 overflow-hidden bg-gradient-to-br from-green-100 via-white to-amber-100">
+    <section id="accueil" className="relative pt-48 pb-20 lg:pt-40 lg:pb-32 overflow-hidden bg-gradient-to-br from-green-50/50 via-white to-amber-50/50">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center max-w-4xl mx-auto">
           <h1 className="text-3xl sm:text-5xl lg:text-6xl font-semibold text-gray-900 mb-6 leading-tight">
@@ -34,10 +34,10 @@ export default function Hero() {
         </div>
       </div>
 
-      <div className="absolute top-0 right-0 -z-10 opacity-30">
+      <div className="absolute top-0 right-0 -z-10 opacity-20">
         <div className="w-96 h-96 bg-primary rounded-full blur-3xl"></div>
       </div>
-      <div className="absolute bottom-0 left-0 -z-10 opacity-30">
+      <div className="absolute bottom-0 left-0 -z-10 opacity-20">
         <div className="w-96 h-96 bg-secondary rounded-full blur-3xl"></div>
       </div>
     </section>

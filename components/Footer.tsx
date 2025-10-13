@@ -33,8 +33,8 @@ export default function Footer() {
               <Image
                 src="/vendre-appartement-loue-rose.png"
                 alt="VAL' Logo"
-                width={90}
-                height={90}
+                width={120}
+                height={120}
               />
             </div>
             <p className="text-gray-400 leading-relaxed mb-6">

@@ -48,7 +48,7 @@ export default function Contact() {
             <Button
               onClick={openTally}
               size="lg"
-              className="bg-secondary hover:bg-secondary/90 text-white rounded-xl px-8 py-6 text-lg shadow-xl shadow-secondary/20"
+              className="bg-primary hover:bg-primary/90 text-white rounded-xl px-8 py-6 text-lg shadow-xl shadow-primary/20"
             >
               Estimer mon bien loué rapidement
             </Button>

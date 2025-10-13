@@ -50,8 +50,8 @@ export default function Header() {
             <Image
               src="/vendre-appartement-loue-vert.png"
               alt="VAL' - Agence spécialisée vente appartements loués, maisons louées et commerces loués"
-              width={100}
-              height={100}
+              width={120}
+              height={120}
               className="transition-transform group-hover:scale-105"
             />
           </a>
