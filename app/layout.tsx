@@ -6,7 +6,7 @@ import Script from 'next/script';
 const inter = Inter({ subsets: ['latin'], weight: ['400', '500', '600'] });
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://vendreappartementloue.fr'),
+  metadataBase: new URL('https://vendre-appartement-loue.com'),
   title: 'Vendre un appartement, une maison, un commerce loué, Bretagne (Rennes, Lorient, Brest, Vannes) et Paris | VAL, une agence immobilière spécialisée vente appartement loué',
   description: "Agence immobilière experte en vente d'appartements loués, maisons louées et commerces loués en Bretagne (Rennes, Nantes, Vannes, Lorient, Brest, Saint-Malo, Quimper, Pontivy) et Paris. Estimation gratuite, accompagnement personnalisé, réseau d'investisseurs locatifs qualifiés.",
   keywords: [
@@ -49,7 +49,7 @@ export const metadata: Metadata = {
   openGraph: {
     type: 'website',
     locale: 'fr_FR',
-    url: 'https://vendreappartementloue.fr',
+    url: 'https://vendre-appartement-loue.com',
     siteName: 'VAL\' - Vendre Appartement Loué',
     title: 'Vendre un appartement, une maison, un commerce loué, Bretagne (Rennes, Lorient, Brest, Vannes) et Paris | VAL\' Agence Immobilière',
     description: 'Agence immobilière spécialisée dans la vente d\'appartements loués, maisons louées et commerces loués en Bretagne et Paris. +23 conseillers experts issus des plus grandes maisons d\'investissement. Estimation gratuite.',
@@ -69,7 +69,7 @@ export const metadata: Metadata = {
     images: ['/vendre-appartement-loue-vert.png'],
   },
   alternates: {
-    canonical: 'https://vendreappartementloue.fr',
+    canonical: 'https://vendre-appartement-loue.com',
   },
   verification: {
     google: 'votre-code-google-search-console',
@@ -87,9 +87,9 @@ export default function RootLayout({
     name: "VAL' - Vendre Appartement Loué",
     description:
       "Agence immobilière spécialisée dans la vente d'appartements loués, maisons louées et commerces loués en Bretagne et Paris",
-    url: 'https://vendre-appartement-loué.com',
-    logo: 'https://vendre-appartement-loué.com/vendre-appartement-loue-vert.png',
-    image: 'https://vendre-appartement-loué.com/vendre-appartement-loue-vert.png',
+    url: 'https://vendre-appartement-loue.com',
+    logo: 'https://vendre-appartement-loue.com/vendre-appartement-loue-vert.png',
+    image: 'https://vendre-appartement-loue.com/vendre-appartement-loue-vert.png',
     telephone: '+33-7-63-64-88-23',
     address: {
       '@type': 'PostalAddress',
