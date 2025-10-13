@@ -44,7 +44,7 @@ export default function Expertise() {
                     </div>
                     <div>
                       <h3 className="text-2xl lg:text-3xl font-semibold text-gray-900">
-                        +23 Conseillers Experts
+                        +12 Conseillers en investissement locatif
                       </h3>
                       <p className="text-sm text-gray-600">Vannes et Paris</p>
                     </div>
