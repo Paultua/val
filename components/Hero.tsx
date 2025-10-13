@@ -21,7 +21,7 @@ export default function Hero() {
             Nous le vendons au bon prix, rapidement
           </h1>
           <p className="text-lg sm:text-xl text-gray-600 leading-relaxed max-w-3xl mx-auto mb-8">
-            Expert de la vente de bien (appartment, maison, commerce) loué en <strong>Bretagne</strong> et <strong>Paris</strong>. Estimation gratuite sous 24h.
+            Les experts de la vente de biens loués (appartment, maison, commerce) en <strong>Bretagne</strong> et <strong>Paris</strong>. Estimation gratuite sous 24h.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
             <button
