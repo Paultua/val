@@ -25,7 +25,7 @@ export default function Contact() {
     },
     {
       name: 'Paris intra-muros',
-      address: 'Paris 19ème pour couvrir l'Ile-de-France',
+      address: "Paris 19ème pour couvrir l'Ile-de-France",
       phone: '07.63.64.88.23',
       email: 'contact@ukan-group.com',
     },
