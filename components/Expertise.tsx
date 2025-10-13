@@ -15,11 +15,11 @@ export default function Expertise() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-16">
           <h2 className="text-3xl sm:text-4xl lg:text-5xl font-semibold text-gray-900 mb-6">
-            Un réseau d'experts en investissement{' '}
+            Un réseau de professionnels de l'investissement locatif{' '}
             <span className="text-primary">à votre service</span>
           </h2>
           <p className="text-lg text-gray-600 max-w-3xl mx-auto">
-            Plus de 23 conseillers issus des plus grandes maisons de l'investissement
+            Plus de 12 conseillers formés dans les meilleures sociétés d'investissement locatif
           </p>
         </div>
 
@@ -52,22 +52,22 @@ export default function Expertise() {
                 </div>
 
                 <p className="text-gray-600 leading-relaxed mb-6">
-                  Notre équipe est composée de professionnels issus des plus grandes maisons de
+                  Notre équipe est composée de professionnels issus des plus grandes sociétés de
                   gestion d'actifs et d'investissement en France. Cette expertise financière unique
                   nous permet de valoriser parfaitement votre bien loué et d'accéder à un réseau
                   exclusif d'investisseurs qualifiés.
                 </p>
 
                 <p className="text-gray-600 leading-relaxed">
-                  Répartis entre nos bureaux de Vannes et Paris, nos conseillers maîtrisent les
+                  Répartis entre nos bureaux de Vannes (Bretagne) et Paris, nos conseillers maîtrisent les
                   spécificités des biens occupés et vous accompagnent avec une approche sur-mesure
                   pour optimiser la vente de votre appartement loué, maison louée ou commerce loué.
                 </p>
 
                 <div className="mt-8 pt-8 border-t border-gray-200">
                   <p className="text-sm text-gray-500 italic">
-                    "Notre ADN financier fait toute la différence dans la vente de biens loués.
-                    Nous parlons le langage des investisseurs."
+                    "Nos expertises finanancières font toute la différences dans la vente de biens loués.
+                    Nous parlons le langage des investisseurs locatifs."
                   </p>
                 </div>
               </div>
@@ -77,7 +77,7 @@ export default function Expertise() {
 
         <div className="text-center">
           <p className="text-sm font-medium text-gray-500 mb-6">
-            Nos conseillers sont issus de grandes maisons reconnues
+            Nos conseillers ont été formés dans ces sociétés
           </p>
           <div className="flex flex-wrap justify-center items-center gap-8 md:gap-12">
             {companies.map((company, index) => (
