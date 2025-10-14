@@ -13,7 +13,7 @@ export default function Hero() {
   };
 
   return (
-    <section id="accueil" className="relative pt-48 pb-32 lg:pt-40 lg:pb-48 overflow-hidden">
+    <section id="accueil" className="relative pt-54 pb-32 lg:pt-40 lg:pb-48 overflow-hidden">
       {/* Gradient de fond amélioré */}
       <div className="absolute inset-0 bg-gradient-to-br from-green-50 via-white to-blue-50 opacity-80" />
       
