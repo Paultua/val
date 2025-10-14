@@ -10,7 +10,7 @@ export default function FAQ() {
     {
       question: "Que signifie VAL' et pourquoi choisir cette agence ?",
       answer:
-        "VAL' signifie 'Vendez votre Appartement Loué'. Nous sommes la seule agence spécialisée exclusivement dans la vente de biens loués en Bretagne et à Paris intra-muros. Notre ADN financier unique, avec +23 conseillers issus de grandes maisons comme Amundi, Arkéa, Praemia et La Française, nous permet de parler le langage des investisseurs. Nous ne vendons pas comme une agence traditionnelle, nous valorisons votre actif immobilier comme un produit d'investissement.",
+        "VAL' signifie 'Vendez votre Appartement Loué'. Nous sommes la seule agence spécialisée exclusivement dans la vente de biens loués en Bretagne et à Paris intra-muros. Notre ADN financier unique, avec +12 conseillers issus de grandes maisons comme Amundi, Arkéa, Praemia et La Française, nous permet de parler le langage des investisseurs. Nous ne vendons pas comme une agence traditionnelle, nous valorisons votre actif immobilier comme un produit d'investissement.",
     },
     {
       question: "Quelle est votre différence avec les agences immobilières classiques ?",
