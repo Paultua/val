@@ -28,7 +28,7 @@ export default function Hero() {
           <h1 className="text-3xl sm:text-5xl lg:text-6xl font-semibold text-gray-900 mb-6 leading-tight relative">
             Votre bien est loué ?
             <br />
-            Nous le vendons au bon prix, rapidement
+            Nous le <span className="text-primary">vendons au bon prix</span>, rapidement
           </h1>
           <p className="text-lg sm:text-xl text-gray-600 leading-relaxed max-w-3xl mx-auto mb-8">
             Les experts de la vente de biens loués (appartement, maison, commerce) en <strong>Bretagne</strong> et <strong>Paris</strong>. Estimation gratuite sous 24h.
