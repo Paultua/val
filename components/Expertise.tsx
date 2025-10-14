@@ -66,7 +66,7 @@ export default function Expertise() {
 
                 <div className="mt-8 pt-8 border-t border-gray-200">
                   <p className="text-sm text-gray-500 italic">
-                    "Nos expertises finanancières font toute la différences dans la vente de biens loués.
+                    "Nos expertises financières font toute la différences dans la vente de biens loués.
                     Nous parlons le langage des investisseurs locatifs."
                   </p>
                 </div>
