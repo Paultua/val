@@ -35,7 +35,7 @@ export default function Hero() {
                 <span className="relative inline-flex rounded-full h-2 w-2 bg-green-500"></span>
               </span>
               <span className="text-sm font-semibold text-gray-700">
-                N°1 Vente appartement et maison loué en Bretagne
+                Estimation gratuite sous 24h
               </span>
             </div>
 
@@ -47,11 +47,7 @@ export default function Hero() {
 
             {/* Sous-titre naturel et convaincant */}
             <p className="text-xl sm:text-2xl text-gray-700 leading-relaxed max-w-4xl mx-auto mb-4">
-              L'agence spécialisée vente de biens loués en Bretagne
-              <br />
-              <span className="text-lg text-gray-600 mt-2 block">
-                Vannes • Lorient • Rennes • Nantes • Brest • Saint-Malo
-              </span>
+              L'agence spécialisée vente de biens loués en Bretagne : Vannes, Lorient, Rennes, Nantes, Brest et Saint-Malo
             </p>
 
             {/* CTA optimisés */}
