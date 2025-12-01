@@ -35,7 +35,7 @@ export default function Hero() {
                 <span className="relative inline-flex rounded-full h-2 w-2 bg-green-500"></span>
               </span>
               <span className="text-sm font-semibold text-gray-700">
-                N°1 Vente appartement et maison loué en Bretagne • +127 clients satisfaits
+                N°1 Vente appartement et maison loué en Bretagne
               </span>
             </div>
 
@@ -53,22 +53,6 @@ export default function Hero() {
                 Vannes • Lorient • Rennes • Nantes • Brest • Saint-Malo
               </span>
             </p>
-
-            {/* USP avec chiffres */}
-            <div className="flex flex-wrap justify-center gap-4 mb-10 text-base sm:text-lg text-gray-600">
-              <div className="flex items-center gap-2 bg-white/60 px-4 py-2 rounded-lg">
-                <TrendingUp className="w-5 h-5 text-primary" />
-                <span><strong className="text-gray-900">Vendu 30% plus vite</strong> qu'une agence classique</span>
-              </div>
-              <div className="flex items-center gap-2 bg-white/60 px-4 py-2 rounded-lg">
-                <Clock className="w-5 h-5 text-primary" />
-                <span><strong className="text-gray-900">Gardez vos loyers</strong> pendant la vente</span>
-              </div>
-              <div className="flex items-center gap-2 bg-white/60 px-4 py-2 rounded-lg">
-                <Users className="w-5 h-5 text-primary" />
-                <span><strong className="text-gray-900">12 conseillers experts</strong> en Bretagne</span>
-              </div>
-            </div>
 
             {/* CTA optimisés */}
             <div className="flex flex-col sm:flex-row gap-4 justify-center items-center mb-12">
