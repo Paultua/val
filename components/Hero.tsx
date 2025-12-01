@@ -29,29 +29,29 @@ export default function Hero() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
           <div className="text-center max-w-5xl mx-auto relative">
             {/* Badge de confiance */}
-            <div className="inline-flex items-center gap-2 bg-white/80 backdrop-blur-sm px-6 py-3 rounded-full shadow-md mb-8 border border-green-100">
+            <div className="inline-flex items-center gap-2 bg-white/80 backdrop-blur-sm px-6 py-3 rounded-full shadow-md mb-12 border border-green-100">
               <span className="flex h-2 w-2 relative">
                 <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-green-400 opacity-75"></span>
                 <span className="relative inline-flex rounded-full h-2 w-2 bg-green-500"></span>
               </span>
               <span className="text-sm font-semibold text-gray-700">
-              N°1 Vente investissement locatif en Bretagne
+                N°1 Vente investissement locatif en Bretagne
               </span>
             </div>
 
             {/* H1 court et percutant avec SEO */}
-            <h1 className="text-4xl sm:text-5xl lg:text-6xl xl:text-7xl font-bold text-gray-900 mb-6 leading-tight">
-              Vendre votre appartement loué{' '}
+            <h1 className="text-4xl sm:text-5xl lg:text-6xl xl:text-7xl font-bold text-gray-900 mb-8 leading-tight">
+              Vendre votre bien{' '}
               <span className="text-primary">au meilleur prix</span>
             </h1>
 
             {/* Sous-titre naturel et convaincant */}
-            <p className="text-xl sm:text-2xl text-gray-700 leading-relaxed max-w-4xl mx-auto mb-4">
+            <p className="text-xl sm:text-2xl text-gray-700 leading-relaxed max-w-4xl mx-auto mb-12">
               L'agence spécialisée vente de biens loués en Bretagne : Vannes, Lorient, Rennes, Nantes, Brest et Saint-Malo
             </p>
 
             {/* CTA optimisés */}
-            <div className="flex flex-col sm:flex-row gap-4 justify-center items-center mb-12">
+            <div className="flex flex-col sm:flex-row gap-4 justify-center items-center mb-16">
               <button
                 onClick={openTallyPopup}
                 className="bg-primary text-white px-10 py-5 rounded-xl text-lg font-bold hover:bg-primary/90 transition-all duration-300 shadow-xl hover:shadow-2xl hover:scale-105 w-full sm:w-auto group"
@@ -67,41 +67,43 @@ export default function Hero() {
               </button>
             </div>
 
-            {/* Texte SEO enrichi avec mots-clés géolocalisés */}
-            <div className="max-w-4xl mx-auto text-left bg-white/40 backdrop-blur-sm rounded-2xl p-8 border border-green-100">
-              <h2 className="text-2xl font-bold text-gray-900 mb-4 text-center">
-                Pourquoi choisir VAL' pour vendre votre appartement loué en Bretagne ?
-              </h2>
-              <div className="grid md:grid-cols-2 gap-6 text-gray-700">
+            {/* Texte SEO enrichi avec mots-clés géolocalisés - VERSION CONDENSÉE */}
+            <div className="max-w-4xl mx-auto text-left bg-white/40 backdrop-blur-sm rounded-2xl p-6 border border-green-100">
+              <p className="text-center text-gray-700 mb-6 text-lg">
+                Vous souhaitez <strong>vendre un appartement loué</strong> ou une <strong>maison louée</strong> ? 
+                VAL' est l'expert pour <strong>vendre votre bien loué</strong> rapidement, sans congé locataire.
+              </p>
+              
+              <div className="grid md:grid-cols-2 gap-4 text-gray-700 text-sm">
                 <div className="flex gap-3">
-                  <Check className="w-6 h-6 text-primary flex-shrink-0 mt-1" />
+                  <Check className="w-5 h-5 text-primary flex-shrink-0 mt-0.5" />
                   <div>
-                    <p className="font-semibold text-gray-900 mb-1">Spécialiste vente appartement loué</p>
-                    <p className="text-sm">La seule agence 100% dédiée à la <strong>vente d'appartements loués</strong> et <strong>maisons louées</strong> en Bretagne. Nous vendons votre <strong>bien loué</strong> sans congé locataire.</p>
+                    <p className="font-semibold text-gray-900">100% spécialisés biens loués</p>
+                    <p>Seule agence dédiée à la vente d'appartements loués en Bretagne</p>
                   </div>
                 </div>
                 
                 <div className="flex gap-3">
-                  <MapPin className="w-6 h-6 text-primary flex-shrink-0 mt-1" />
+                  <MapPin className="w-5 h-5 text-primary flex-shrink-0 mt-0.5" />
                   <div>
-                    <p className="font-semibold text-gray-900 mb-1">Expert local Bretagne</p>
-                    <p className="text-sm">Présents à <strong>Vannes</strong>, <strong>Lorient</strong>, <strong>Rennes</strong>, <strong>Nantes</strong>, <strong>Brest</strong>, <strong>Saint-Malo</strong>. Nous connaissons parfaitement le marché pour <strong>vendre un appartement loué</strong> dans chaque ville.</p>
+                    <p className="font-semibold text-gray-900">Expertise locale Bretagne</p>
+                    <p>Présents à Vannes, Lorient, Rennes, Nantes, Brest, Saint-Malo</p>
                   </div>
                 </div>
 
                 <div className="flex gap-3">
-                  <Users className="w-6 h-6 text-primary flex-shrink-0 mt-1" />
+                  <Users className="w-5 h-5 text-primary flex-shrink-0 mt-0.5" />
                   <div>
-                    <p className="font-semibold text-gray-900 mb-1">Réseau investisseurs exclusif</p>
-                    <p className="text-sm">Nos 12 conseillers (ex-Amundi, Arkéa, Praemia) ciblent des acheteurs investisseurs recherchant spécifiquement des <strong>appartements loués</strong> et <strong>biens occupés</strong>.</p>
+                    <p className="font-semibold text-gray-900">Réseau investisseurs qualifiés</p>
+                    <p>12 conseillers experts ciblent les bons acheteurs pour votre bien loué</p>
                   </div>
                 </div>
 
                 <div className="flex gap-3">
-                  <TrendingUp className="w-6 h-6 text-primary flex-shrink-0 mt-1" />
+                  <TrendingUp className="w-5 h-5 text-primary flex-shrink-0 mt-0.5" />
                   <div>
-                    <p className="font-semibold text-gray-900 mb-1">Vente rapide garantie</p>
-                    <p className="text-sm"><strong>Vendre un appartement loué</strong> est 30% plus rapide avec VAL'. Votre <strong>maison louée</strong> ou <strong>appartement loué</strong> se vend en 30-60 jours en moyenne.</p>
+                    <p className="font-semibold text-gray-900">Vente 30% plus rapide</p>
+                    <p>Votre appartement loué vendu en moyenne sous 45 jours</p>
                   </div>
                 </div>
               </div>
