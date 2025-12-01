@@ -56,14 +56,14 @@ export default function Hero() {
                 onClick={openTallyPopup}
                 className="bg-primary text-white px-10 py-5 rounded-xl text-lg font-bold hover:bg-primary/90 transition-all duration-300 shadow-xl hover:shadow-2xl hover:scale-105 w-full sm:w-auto group"
               >
-                Vendre mon appartement loué
+                Vendre mon bien
                 <span className="ml-2 inline-block group-hover:translate-x-1 transition-transform">→</span>
               </button>
               <button
                 onClick={openTallyPopup}
                 className="bg-white text-primary border-2 border-primary px-10 py-5 rounded-xl text-lg font-bold hover:bg-green-50 transition-all duration-300 shadow-lg hover:shadow-xl w-full sm:w-auto"
               >
-                Estimation gratuite 24h
+                Estimation gratuite
               </button>
             </div>
 
