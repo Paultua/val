@@ -35,7 +35,7 @@ export default function Hero() {
                 <span className="relative inline-flex rounded-full h-2 w-2 bg-green-500"></span>
               </span>
               <span className="text-sm font-semibold text-gray-700">
-                Estimation gratuite sous 24h
+              N°1 Vente investissement locatif en Bretagne
               </span>
             </div>
 
