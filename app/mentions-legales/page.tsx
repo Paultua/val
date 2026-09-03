@@ -25,7 +25,8 @@ export default function MentionsLegales() {
                 <p className="font-semibold">UKAN GROUP SAS</p>
                 <p>17 avenue Jean Moulin, 93100 Montreuil, France</p>
                 <p>SAS au capital de 1 000 €, RCS Bobigny n° 915 117 931</p>
-                <p>SIRET : 915 117 931 00013 — Code APE : 6831Z</p>
+                <p>SIRET : 915 117 931 00013</p>
+                <p>Code APE : 6831Z</p>
                 <p>Titulaire de la carte professionnelle n° CPI93012022000000041, délivrée par la CCI Paris Île-de-France le 07/09/2022 (Transaction, Gestion immobilière)</p>
                 <p>Garantie financière : 120 000 € (voir détail dans la carte professionnelle)</p>
                 <p>
@@ -84,7 +85,7 @@ export default function MentionsLegales() {
             </section>
 
             <section>
-              <h2 className="text-xl font-semibold text-gray-900 mb-3">TRACFIN — Lutte contre le blanchiment</h2>
+              <h2 className="text-xl font-semibold text-gray-900 mb-3">TRACFIN : lutte contre le blanchiment</h2>
               <p>
                 En vertu des articles L561-5 et suivants du Code monétaire et financier, les agents
                 immobiliers sont tenus de vérifier l'identité de leurs clients, vendeurs et acquéreurs,
@@ -97,8 +98,8 @@ export default function MentionsLegales() {
               <p>
                 Conformément aux articles L611-1 et suivants du Code de la consommation, le consommateur
                 a la possibilité de saisir gratuitement le médiateur de la consommation dont relève le
-                professionnel : Association Nationale des Médiateurs (ANM) — 2 rue de Colmar, 94300
-                Vincennes —{' '}
+                professionnel : Association Nationale des Médiateurs (ANM), 2 rue de Colmar, 94300
+                Vincennes,{' '}
                 <a href="https://www.anm-conso.com" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline">
                   www.anm-conso.com
                 </a>.

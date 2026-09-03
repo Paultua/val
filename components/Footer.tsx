@@ -39,7 +39,7 @@ export default function Footer() {
             <p className="text-sm text-gray-500">
               VAL' est un service du{' '}
               <a href="https://ukan-group.com" target="_blank" rel="noopener noreferrer" className="text-gray-300 hover:text-white underline">
-                groupe Ukan
+                Groupe Ukan
               </a>
               , basé à Vannes, également éditeur d'
               <a href="https://www.investir-en-bretagne.com" target="_blank" rel="noopener noreferrer" className="text-gray-300 hover:text-white underline">

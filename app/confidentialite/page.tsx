@@ -48,7 +48,7 @@ export default function Confidentialite() {
               <p>
                 Le traitement de vos données repose sur votre consentement (formulaire de contact) et
                 sur l'intérêt légitime d'Ukan Group SAS à assurer le bon fonctionnement et l'amélioration
-                du site, conformément au Règlement Général sur la Protection des Données (RGPD — UE 2016/679)
+                du site, conformément au Règlement Général sur la Protection des Données (RGPD, règlement UE 2016/679)
                 et à la loi Informatique et Libertés du 6 janvier 1978.
               </p>
             </section>

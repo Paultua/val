@@ -11,7 +11,7 @@ export default function Expertise() {
             <span className="text-primary">votre bien loué</span>
           </h2>
           <p className="text-lg text-gray-600 max-w-3xl mx-auto">
-            VAL' fait partie du groupe Ukan, basé à Vannes
+            VAL' fait partie du Groupe Ukan, basé à Vannes
           </p>
         </div>
 
@@ -30,13 +30,13 @@ export default function Expertise() {
               Avant l'immobilier, Paul Tuauden a travaillé plusieurs années dans un fonds
               d'investissement immobilier privé. Cette expérience du côté investisseur est ce qui
               différencie VAL' d'une agence classique : nous valorisons un bien loué comme un actif
-              financier — rendement, qualité du bail, potentiel — pas seulement comme un logement.
+              financier (rendement, qualité du bail, potentiel), pas seulement comme un logement.
             </p>
 
             <p className="text-gray-600 leading-relaxed">
               VAL' fait partie du{' '}
               <a href="https://ukan-group.com" target="_blank" rel="noopener noreferrer" className="text-primary font-medium hover:underline">
-                groupe Ukan
+                Groupe Ukan
               </a>
               , basé à Vannes, qui édite également{' '}
               <a href="https://www.investir-en-bretagne.com" target="_blank" rel="noopener noreferrer" className="text-primary font-medium hover:underline">

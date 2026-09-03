@@ -16,11 +16,11 @@ const data = {
   ville: 'Nantes',
   slug: 'nantes',
   heroLead:
-    "Métropole attractive de Loire-Atlantique, Nantes concentre une forte demande d'investisseurs pour le bien déjà loué — un profil d'acheteur que nous savons cibler.",
+    "Métropole attractive de Loire-Atlantique, Nantes concentre une forte demande d'investisseurs pour le bien déjà loué, un profil d'acheteur que nous savons cibler.",
   stats: [],
   marketParagraphs: [
     "Nantes est une métropole en croissance, avec un marché locatif actif et une base d'investisseurs importante qui recherchent activement des biens déjà occupés pour sécuriser un rendement immédiat. Vendre un appartement, une maison ou un immeuble de rapport loué à Nantes présente les mêmes avantages qu'ailleurs en Bretagne : conservation des loyers pendant la vente, aucune vacance locative, pas de travaux de présentation à engager.",
-    "Nous n'avons pas encore consolidé de données de marché quartier par quartier pour Nantes aussi précises que pour Vannes, Lorient ou Rennes — nous établissons donc un avis de valeur chiffré propre à votre bien dès la première estimation, sur la base des ventes réellement comparables dans votre secteur.",
+    "Nous n'avons pas encore consolidé de données de marché quartier par quartier pour Nantes aussi précises que pour Vannes, Lorient ou Rennes. Nous établissons donc un avis de valeur chiffré propre à votre bien dès la première estimation, sur la base des ventes réellement comparables dans votre secteur.",
   ],
   sourceNote: "Étude de marché quartier par quartier à venir pour Nantes.",
   autresVilles: [

@@ -23,9 +23,9 @@ const data = {
     { label: 'Décote vs Vannes', value: '-30 à -40 %' },
   ],
   marketParagraphs: [
-    "Avec des prix inférieurs de 30 à 40% à ceux de Vannes, mais des loyers qui ne subissent pas la même décote, Lorient offre le meilleur ratio prix-loyer du Morbihan. Un T2 acheté 120 000 € et loué 550 € charges comprises affiche un rendement brut proche de 5,5% — c'est précisément le type de bien que nos acheteurs investisseurs recherchent en priorité.",
+    "Avec des prix inférieurs de 30 à 40% à ceux de Vannes, mais des loyers qui ne subissent pas la même décote, Lorient offre le meilleur ratio prix-loyer du Morbihan. Un T2 acheté 120 000 € et loué 550 € charges comprises affiche un rendement brut proche de 5,5%. C'est précisément le type de bien que nos acheteurs investisseurs recherchent en priorité.",
     "La demande locative s'appuie sur trois piliers stables : le bassin d'emploi naval et industriel, l'Université Bretagne Sud, et les jeunes actifs du nautisme et des énergies marines renouvelables (Lorient La Base, Route du Rhum, Vendée Globe). Ce dynamisme économique soutient une demande locative durable, un argument fort au moment de la vente.",
-    "Pour un immeuble de rapport, Lorient est un marché particulièrement intéressant : un exemple récent illustre un immeuble acquis 700 000 € pour une valeur de marché avoisinant le million d'euros, avec un TRI de 12 à 14% après restructuration locative. Ce type de bien — plusieurs lots loués sous un même titre — intéresse un profil d'acheteur différent d'un appartement isolé, que nous savons cibler.",
+    "Pour un immeuble de rapport, Lorient est un marché particulièrement intéressant : un exemple récent illustre un immeuble acquis 700 000 € pour une valeur de marché avoisinant le million d'euros, avec un TRI de 12 à 14% après restructuration locative. Ce type de bien, plusieurs lots loués sous un même titre, intéresse un profil d'acheteur différent d'un appartement isolé, que nous savons cibler.",
   ],
   quartiers: [
     { name: 'Centre-ville & port', description: "Demande locative la plus dense, rotation quasi nulle. Biens qui se louent et se vendent vite." },

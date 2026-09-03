@@ -25,7 +25,7 @@ const data = {
   marketParagraphs: [
     "Le prix moyen à Rennes s'établit à 3 807 €/m² (données PAP/DVF, mai 2026), avec des écarts marqués selon les quartiers : de 2 977 €/m² à Villejean à plus de 4 500 €/m² en hypercentre. Les rendements bruts moyens tournent autour de 4%, avec des pointes à 5-6% sur les petites surfaces meublées ou en colocation.",
     "70 000 étudiants, un pôle économique diversifié (cybersécurité, numérique, santé), la ligne B du métro (2022) et la LGV Paris en 1h26 : ces fondamentaux garantissent une rotation locative rapide et une revente facilitée. C'est un argument de poids pour un acheteur investisseur qui recherche la liquidité.",
-    "La colocation sur T4-T5 constitue une stratégie de rendement recherchée par nos acheteurs : un T4 de 83 m² loué en famille pour 900 € peut générer 1 200 à 1 300 € en colocation, portant le rendement brut au-delà de 6% dans certains secteurs — un argument fort au moment de valoriser votre bien.",
+    "La colocation sur T4-T5 constitue une stratégie de rendement recherchée par nos acheteurs : un T4 de 83 m² loué en famille pour 900 € peut générer 1 200 à 1 300 € en colocation, portant le rendement brut au-delà de 6% dans certains secteurs, un argument fort au moment de valoriser votre bien.",
   ],
   quartiers: [
     { name: 'Villejean-Beauregard', description: "Les prix les plus bas de Rennes (2 977 – 3 515 €/m²), mais les rendements les plus élevés : 5,5 à 7,5%." },

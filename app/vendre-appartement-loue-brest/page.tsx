@@ -25,7 +25,7 @@ const data = {
   marketParagraphs: [
     "Brest affiche l'un des prix au m² les plus accessibles des grandes villes bretonnes, ce qui permet à un investisseur d'entrer sur le marché avec un capital plus limité tout en visant un rendement locatif attractif, généralement entre 4 et 6% brut selon le quartier et la typologie.",
     "La demande locative s'appuie sur des piliers stables : la Marine nationale et la Direction des Constructions Navales, l'Université de Bretagne Occidentale, et le technopôle Brest Iroise. Cette diversité de locataires potentiels (militaires, étudiants, cadres) sécurise l'occupation d'un bien loué, un argument que nous mettons en avant auprès de nos acheteurs investisseurs.",
-    "Chaque vente étant différente, nous établissons un avis de valeur chiffré propre à votre bien — rendement réel, qualité du bail, quartier — plutôt que de raisonner sur une moyenne de ville.",
+    "Chaque vente étant différente, nous établissons un avis de valeur chiffré propre à votre bien (rendement réel, qualité du bail, quartier) plutôt que de raisonner sur une moyenne de ville.",
   ],
   sourceNote: "Chiffres de cadrage à affiner lors de l'estimation gratuite de votre bien.",
   autresVilles: [

@@ -10,7 +10,7 @@ export default function FAQ() {
     {
       question: "Pourquoi vendre un appartement loué plutôt qu'attendre qu'il se libère ?",
       answer:
-        "Parce qu'un bien loué se vend à un acheteur différent : un investisseur, pas un futur habitant. Vous conservez vos loyers jusqu'à la signature, vous n'avez ni congé à donner ni vacance locative à gérer, et vous n'avez pas à faire de travaux de présentation. Un investisseur, lui, achète un rendement immédiat — c'est cet argument que nous mettons en avant pour vendre plus vite.",
+        "Parce qu'un bien loué se vend à un acheteur différent : un investisseur, pas un futur habitant. Vous conservez vos loyers jusqu'à la signature, vous n'avez ni congé à donner ni vacance locative à gérer, et vous n'avez pas à faire de travaux de présentation. Un investisseur, lui, achète un rendement immédiat, et c'est cet argument que nous mettons en avant pour vendre plus vite.",
     },
     {
       question: "Que devient le locataire lors de la vente ?",
@@ -25,7 +25,7 @@ export default function FAQ() {
     {
       question: "Appartement, maison, immeuble de rapport ou commerce loué : même méthode ?",
       answer:
-        "Le principe est le même — valoriser le bien par son rendement plutôt que par sa seule surface — mais les acheteurs diffèrent. Un appartement loué se vend souvent sur un rendement brut de 4 à 7% selon la ville ; une maison louée, plutôt 3 à 5% avec un potentiel de valorisation à long terme. Un immeuble de rapport (plusieurs lots loués sous un même titre) se valorise sur la rentabilité globale et la qualité du parc locatif, et intéresse un acheteur différent, souvent plus investisseur que particulier. Un commerce loué dépend surtout de la solidité du bail commercial et de l'enseigne en place.",
+        "Le principe est le même dans les trois cas : valoriser le bien par son rendement plutôt que par sa seule surface. Mais les acheteurs diffèrent. Un appartement loué se vend souvent sur un rendement brut de 4 à 7% selon la ville ; une maison louée, plutôt 3 à 5% avec un potentiel de valorisation à long terme. Un immeuble de rapport (plusieurs lots loués sous un même titre) se valorise sur la rentabilité globale et la qualité du parc locatif, et intéresse un acheteur différent, souvent plus investisseur que particulier. Un commerce loué dépend surtout de la solidité du bail commercial et de l'enseigne en place.",
     },
     {
       question: "Combien de temps prend la vente d'un bien loué ?",
@@ -45,12 +45,12 @@ export default function FAQ() {
     {
       question: "Vendez-vous des immeubles de rapport ?",
       answer:
-        "Oui, c'est l'un de nos types de biens : un immeuble de rapport se vend rarement au même acheteur qu'un appartement isolé, car l'analyse porte sur la rentabilité globale de l'ensemble (taux d'occupation, qualité des baux, travaux à prévoir lot par lot) plutôt que sur le coup de cœur. C'est exactement le profil d'acheteur — investisseur, parfois professionnel — que nous ciblons en priorité.",
+        "Oui, c'est l'un de nos types de biens : un immeuble de rapport se vend rarement au même acheteur qu'un appartement isolé, car l'analyse porte sur la rentabilité globale de l'ensemble (taux d'occupation, qualité des baux, travaux à prévoir lot par lot) plutôt que sur le coup de cœur. C'est exactement le profil d'acheteur que nous ciblons en priorité : un investisseur, parfois même un professionnel.",
     },
     {
       question: "Où intervenez-vous exactement en Bretagne ?",
       answer:
-        "Notre cœur d'activité couvre Vannes, Lorient, Rennes, Nantes, Brest et Saint-Malo, où le groupe Ukan est implanté depuis plusieurs années. Nous restons concentrés sur la Bretagne : c'est ce qui nous permet de connaître finement chaque marché local plutôt que de nous disperser.",
+        "Notre cœur d'activité couvre Vannes, Lorient, Rennes, Nantes, Brest et Saint-Malo, où le Groupe Ukan est implanté depuis plusieurs années. Nous restons concentrés sur la Bretagne : c'est ce qui nous permet de connaître finement chaque marché local plutôt que de nous disperser.",
     },
   ];
 

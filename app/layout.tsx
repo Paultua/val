@@ -70,7 +70,7 @@ export default function RootLayout({
 }: {
   children: React.ReactNode;
 }) {
-  // Schema.org — une seule entité, des informations vérifiables uniquement
+  // Schema.org : une seule entité, des informations vérifiables uniquement
   const jsonLdOrganization = {
     '@context': 'https://schema.org',
     '@type': 'RealEstateAgent',
@@ -105,7 +105,7 @@ export default function RootLayout({
       longitude: -2.7603,
     },
 
-    // VAL fait partie du groupe Ukan, également éditeur d'Investir en Bretagne
+    // VAL fait partie du Groupe Ukan, également éditeur d'Investir en Bretagne
     parentOrganization: {
       '@type': 'Organization',
       name: 'Ukan Group',
