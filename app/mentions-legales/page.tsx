@@ -60,7 +60,7 @@ export default function MentionsLegales() {
               <p className="mb-3">
                 Ukan Group SAS intervient dans le cadre de son activité d'agence immobilière réglementée,
                 pour la présentation et la commercialisation de biens immobiliers loués (appartements,
-                maisons, commerces) en Bretagne et en Île-de-France. Elle peut agir :
+                maisons, immeubles de rapport, commerces) en Bretagne. Elle peut agir :
               </p>
               <ul className="list-disc pl-6 space-y-1">
                 <li>en tant que mandataire du vendeur pour la commercialisation du bien,</li>

@@ -33,8 +33,8 @@ export default function Footer() {
               />
             </div>
             <p className="text-gray-400 leading-relaxed mb-4">
-              Agence spécialisée dans la vente d'appartements, maisons et commerces loués en
-              Bretagne (Vannes, Lorient, Rennes, Nantes, Brest, Saint-Malo) et en Île-de-France.
+              Agence spécialisée dans la vente d'appartements, maisons, immeubles de rapport et
+              commerces loués en Bretagne (Vannes, Lorient, Rennes, Nantes, Brest, Saint-Malo).
             </p>
             <p className="text-sm text-gray-500">
               VAL' est un service du{' '}

@@ -11,9 +11,9 @@ export default function WhyVal() {
     },
     {
       icon: MapPin,
-      title: 'Ancrés en Bretagne, actifs en Île-de-France',
+      title: 'Ancrés à Vannes, actifs sur toute la Bretagne',
       description:
-        'Basés à Vannes (56), nous couvrons toute la Bretagne et intervenons également en Île-de-France via notre réseau. Une connaissance fine des marchés locaux pour bien valoriser votre bien loué.',
+        'Basés à Vannes (56), nous couvrons Vannes, Lorient, Rennes, Nantes, Brest et Saint-Malo. Une connaissance fine des marchés locaux pour bien valoriser votre bien loué.',
     },
     {
       icon: TrendingUp,
@@ -29,11 +29,10 @@ export default function WhyVal() {
         <div className="text-center mb-16">
           <h2 className="text-3xl sm:text-4xl lg:text-5xl font-semibold text-gray-900 mb-6">
             Une agence immobilière spécialisée dans la vente de biens loués en{' '}
-            <span className="text-primary">Bretagne</span> et{' '}
-            <span className="text-primary">Paris</span>
+            <span className="text-primary">Bretagne</span>
           </h2>
           <p className="text-lg text-gray-600 max-w-3xl mx-auto">
-            Spécialistes de la vente d'appartements, maisons et commerces loués et occupés
+            Spécialistes de la vente d'appartements, maisons, immeubles de rapport et commerces loués et occupés
           </p>
         </div>
 

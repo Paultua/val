@@ -41,7 +41,7 @@ export const metadata: Metadata = {
         url: '/vendre-appartement-loue-vert.png',
         width: 1200,
         height: 630,
-        alt: 'VAL\' - Expert vente appartement loué Bretagne et Paris',
+        alt: 'VAL\' - Expert vente appartement loué en Bretagne',
       },
     ],
   },
@@ -78,7 +78,7 @@ export default function RootLayout({
     name: "VAL' - Vendre Appartement Loué",
     alternateName: 'VAL Immobilier',
     description:
-      "Agence spécialisée dans la vente d'appartements, maisons et commerces loués en Bretagne (Vannes, Lorient, Rennes, Nantes, Brest, Saint-Malo) et en Île-de-France.",
+      "Agence spécialisée dans la vente d'appartements, maisons, immeubles de rapport et commerces loués en Bretagne (Vannes, Lorient, Rennes, Nantes, Brest, Saint-Malo).",
     url: 'https://vendre-appartement-loue.com',
     logo: {
       '@type': 'ImageObject',
@@ -175,10 +175,6 @@ export default function RootLayout({
         '@type': 'City',
         name: 'Pontivy',
       },
-      {
-        '@type': 'City',
-        name: 'Paris',
-      },
     ],
 
     // Services proposés
@@ -199,15 +195,23 @@ export default function RootLayout({
           itemOffered: {
             '@type': 'Service',
             name: 'Vente maison louée',
-            description: 'Vente maison louée en Bretagne et Paris',
+            description: 'Vente maison louée en Bretagne',
           },
         },
         {
           '@type': 'Offer',
           itemOffered: {
             '@type': 'Service',
-            name: 'Vente bien occupé',
-            description: 'Vente commerce loué et immeuble de rapport',
+            name: 'Vente immeuble de rapport',
+            description: "Vente d'immeubles de rapport (plusieurs lots loués) en Bretagne",
+          },
+        },
+        {
+          '@type': 'Offer',
+          itemOffered: {
+            '@type': 'Service',
+            name: 'Vente commerce loué',
+            description: 'Vente de locaux commerciaux occupés en Bretagne',
           },
         },
         {
@@ -215,7 +219,7 @@ export default function RootLayout({
           itemOffered: {
             '@type': 'Service',
             name: 'Estimation bien loué',
-            description: 'Estimation gratuite appartement loué et maison louée',
+            description: 'Estimation gratuite appartement loué, maison louée et immeuble de rapport',
           },
         },
       ],
@@ -229,7 +233,7 @@ export default function RootLayout({
     '@id': 'https://vendre-appartement-loue.com/#website',
     url: 'https://vendre-appartement-loue.com',
     name: "VAL' - Vendre Appartement Loué",
-    description: 'Agence spécialisée dans la vente de biens loués en Bretagne et en Île-de-France',
+    description: 'Agence spécialisée dans la vente de biens loués en Bretagne',
     publisher: {
       '@id': 'https://vendre-appartement-loue.com/#organization',
     },

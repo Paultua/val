@@ -3,6 +3,8 @@ import { MetadataRoute } from 'next';
 export default function sitemap(): MetadataRoute.Sitemap {
   const baseUrl = 'https://vendre-appartement-loue.com';
 
+  const villes = ['vannes', 'lorient', 'rennes', 'nantes', 'brest', 'saint-malo'];
+
   return [
     {
       url: baseUrl,
@@ -10,6 +12,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency: 'weekly',
       priority: 1,
     },
+    ...villes.map((ville) => ({
+      url: `${baseUrl}/vendre-appartement-loue-${ville}`,
+      lastModified: new Date(),
+      changeFrequency: 'monthly' as const,
+      priority: 0.8,
+    })),
     {
       url: `${baseUrl}/mentions-legales`,
       lastModified: new Date(),

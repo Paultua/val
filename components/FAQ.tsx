@@ -23,9 +23,9 @@ export default function FAQ() {
         "Le bail en cours, les quittances de loyer des 12 derniers mois, les diagnostics immobiliers obligatoires (dont le DPE), les charges de copropriété si applicable, et l'avis de taxe foncière. Nous vous accompagnons dans la constitution du dossier et vérifions le respect du droit de préemption du locataire avant toute mise en vente.",
     },
     {
-      question: "Appartement, maison ou local commercial loué : même méthode ?",
+      question: "Appartement, maison, immeuble de rapport ou commerce loué : même méthode ?",
       answer:
-        "Le principe est le même — valoriser le bien par son rendement plutôt que par sa seule surface — mais les acheteurs diffèrent. Un appartement loué se vend souvent sur un rendement brut de 4 à 7% selon la ville ; une maison louée, plutôt 3 à 5% avec un potentiel de valorisation à long terme ; un commerce loué dépend surtout de la solidité du bail commercial et de l'enseigne en place.",
+        "Le principe est le même — valoriser le bien par son rendement plutôt que par sa seule surface — mais les acheteurs diffèrent. Un appartement loué se vend souvent sur un rendement brut de 4 à 7% selon la ville ; une maison louée, plutôt 3 à 5% avec un potentiel de valorisation à long terme. Un immeuble de rapport (plusieurs lots loués sous un même titre) se valorise sur la rentabilité globale et la qualité du parc locatif, et intéresse un acheteur différent, souvent plus investisseur que particulier. Un commerce loué dépend surtout de la solidité du bail commercial et de l'enseigne en place.",
     },
     {
       question: "Combien de temps prend la vente d'un bien loué ?",
@@ -43,9 +43,14 @@ export default function FAQ() {
         "En général non. C'est l'un des intérêts de vendre un bien loué : un investisseur achète le rendement et l'état d'occupation, pas un coup de cœur décoratif. Si des travaux sont vraiment nécessaires (mise aux normes DPE par exemple), nous vous le disons clairement dès l'estimation plutôt que de vous les faire découvrir après coup.",
     },
     {
-      question: "Vendez-vous des biens loués en dehors de la Bretagne ?",
+      question: "Vendez-vous des immeubles de rapport ?",
       answer:
-        "Notre cœur d'activité est la Bretagne (Vannes, Lorient, Rennes, Nantes, Brest, Saint-Malo), où le groupe Ukan est implanté depuis plusieurs années. Nous intervenons également en Île-de-France (Paris et première couronne) via notre réseau d'investisseurs.",
+        "Oui, c'est l'un de nos types de biens : un immeuble de rapport se vend rarement au même acheteur qu'un appartement isolé, car l'analyse porte sur la rentabilité globale de l'ensemble (taux d'occupation, qualité des baux, travaux à prévoir lot par lot) plutôt que sur le coup de cœur. C'est exactement le profil d'acheteur — investisseur, parfois professionnel — que nous ciblons en priorité.",
+    },
+    {
+      question: "Où intervenez-vous exactement en Bretagne ?",
+      answer:
+        "Notre cœur d'activité couvre Vannes, Lorient, Rennes, Nantes, Brest et Saint-Malo, où le groupe Ukan est implanté depuis plusieurs années. Nous restons concentrés sur la Bretagne : c'est ce qui nous permet de connaître finement chaque marché local plutôt que de nous disperser.",
     },
   ];
 

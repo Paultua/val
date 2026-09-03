@@ -34,9 +34,9 @@ export default function Hero() {
             </h1>
 
             <p className="text-lg sm:text-xl text-gray-700 leading-relaxed max-w-3xl mx-auto mb-10">
-              VAL' est une agence spécialisée dans la vente d'appartements, de maisons et de
-              commerces déjà loués, en Bretagne (Vannes, Lorient, Rennes, Nantes, Brest, Saint-Malo)
-              et en Île-de-France. Vous gardez vos loyers jusqu'à la signature.
+              VAL' est une agence spécialisée dans la vente d'appartements, de maisons, d'immeubles
+              de rapport et de commerces déjà loués, en Bretagne (Vannes, Lorient, Rennes, Nantes,
+              Brest, Saint-Malo). Vous gardez vos loyers jusqu'à la signature.
             </p>
 
             <div className="flex flex-col sm:flex-row gap-4 justify-center items-center mb-16">
@@ -103,7 +103,7 @@ export default function Hero() {
                 { '@type': 'City', name: 'Saint-Malo' },
               ],
             },
-            description: 'Service spécialisé vente appartement loué et maison louée en Bretagne. Expert vente bien occupé à Vannes, Lorient, Rennes, Nantes, Brest, Saint-Malo.',
+            description: 'Service spécialisé vente appartement loué, maison louée et immeuble de rapport en Bretagne. Expert vente bien occupé à Vannes, Lorient, Rennes, Nantes, Brest, Saint-Malo.',
             offers: {
               '@type': 'Offer',
               price: '0',
